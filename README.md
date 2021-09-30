@@ -1,3 +1,3 @@
 # cashRegister
 
-Check out the live app [here](www.google.com)
+Check out the live app [here](https://rahuldhiman-cashregister.netlify.app/)
